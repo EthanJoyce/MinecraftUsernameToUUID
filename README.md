@@ -17,4 +17,4 @@ The contents of `uuid` will now be:
 `854dd5e0fe044568a787053417ea6335`
 
 ## License
-This software is licensed under the MIT license. Feel free to use it however you like, just be sure to give credit.
+This software is licensed under the MIT license. Feel free to use it however you like.
