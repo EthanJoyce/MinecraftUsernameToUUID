@@ -2,7 +2,7 @@
 Convert old Minecraft usernames to their UUID.
 Written for Python3.
 
-### Usage
+## Usage
 1. Add the username_to_uuid.py file to your Python path.
 2. Use the library like this:
 ```
