@@ -33,6 +33,9 @@ class UsernameToUUID:
             return ""
 
         json_data = json.loads(response)
-        uuid = json_data['id']
+        try:
+            uuid = json_data['id']
+        except KeyError as e:
+            print("KeyError raised:", e);
 
         return uuid
